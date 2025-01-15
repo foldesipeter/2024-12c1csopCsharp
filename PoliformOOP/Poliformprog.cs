@@ -10,6 +10,11 @@ namespace PoliformOOP
     {
         static void Main(string[] args)
         {
+            Haz otthon = new Haz();
+            Woman eva = new Woman("Éva","zöld");
+            Woman kati = new Woman("Kati","barna");
+            Woman sari = new Woman("Sári","kék");
+            Woman zsuzsi = new Woman("Zsuzsi","zöld");
         }
     }
     class Ember
@@ -38,8 +43,8 @@ namespace PoliformOOP
     }
     class Woman : Ember
     {
-        public int Szemszín { set; get; }
-        public Woman(string nev, int szemszin) : base(nev)
+        public string Szemszín { set; get; }
+        public Woman(string nev, string szemszin) : base(nev)
         {
             Szemszín = szemszin;
         }
