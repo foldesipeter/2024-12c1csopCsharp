@@ -6,6 +6,20 @@ using System.Threading.Tasks;
 
 namespace Gettersetter
 {
+    class settergetter
+    {
+        static void Main(string[] args)
+        {
+            Person person = new Person();
+            person.Name = "Ádám";
+            Console.WriteLine(person.Name);
+
+            person.Id = 99;
+            Console.WriteLine(person.Id);
+
+            Console.ReadKey();
+        }
+    }
     class Person
     {
         public Person() { }
