@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PoliformOOP
 {
-    class Program
+    class Poliformprog
     {
         static void Main(string[] args)
         {
