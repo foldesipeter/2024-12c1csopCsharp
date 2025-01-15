@@ -15,6 +15,31 @@ namespace PoliformOOP
             Woman kati = new Woman("Kati","barna");
             Woman sari = new Woman("Sári","kék");
             Woman zsuzsi = new Woman("Zsuzsi","zöld");
+
+            Ferfi adam = new Ferfi("Ádám", 26);
+            Ferfi dani = new Ferfi("Dani", 26);
+            Ferfi gergo = new Ferfi("Gergő", 26);
+            Ferfi atti = new Ferfi("Atti", 26);
+
+            if (eva is Ember) otthon.hazajon(eva as Ember);
+            otthon.hazajon((Ember)kati);
+            otthon.hazajon((Ember)sari);
+            otthon.hazajon((Ember)zsuzsi);
+            otthon.hazajon((Ember)adam);
+            otthon.hazajon((Ember)dani);
+            otthon.hazajon((Ember)gergo);
+            otthon.hazajon((Ember)atti);
+
+            bool tovabb = true;
+            do
+            {
+                otthon.csenget();
+                tovabb = (Console.ReadLine() == String.Empty) ? false : true;
+
+            }
+            while (tovabb);
+
+
         }
     }
     class Ember
