@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gettersetter", "Gettersette
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lepesfelbutton", "Lepesfelbutton\Lepesfelbutton.csproj", "{E43B4AD6-6745-457A-A240-C962B6BA90ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Textalign", "Textalign\Textalign.csproj", "{BAFF7B32-B0E2-4C31-AB50-893D0A296BC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E43B4AD6-6745-457A-A240-C962B6BA90ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E43B4AD6-6745-457A-A240-C962B6BA90ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E43B4AD6-6745-457A-A240-C962B6BA90ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAFF7B32-B0E2-4C31-AB50-893D0A296BC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFF7B32-B0E2-4C31-AB50-893D0A296BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFF7B32-B0E2-4C31-AB50-893D0A296BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFF7B32-B0E2-4C31-AB50-893D0A296BC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
