@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.34301.259
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoliformOOP", "PoliformOOP\PoliformOOP.csproj", "{95EECCCA-CFCE-40A8-81EC-1535D906FD0B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gettersetter", "Gettersetter\Gettersetter.csproj", "{6F9099E3-FA12-40F3-881F-748B18DC507C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lepesfelbutton", "Lepesfelbutton\Lepesfelbutton.csproj", "{E43B4AD6-6745-457A-A240-C962B6BA90ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{6F9099E3-FA12-40F3-881F-748B18DC507C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F9099E3-FA12-40F3-881F-748B18DC507C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F9099E3-FA12-40F3-881F-748B18DC507C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E43B4AD6-6745-457A-A240-C962B6BA90ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E43B4AD6-6745-457A-A240-C962B6BA90ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E43B4AD6-6745-457A-A240-C962B6BA90ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E43B4AD6-6745-457A-A240-C962B6BA90ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
