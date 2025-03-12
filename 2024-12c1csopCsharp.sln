@@ -7,9 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoliformOOP", "PoliformOOP\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gettersetter", "Gettersetter\Gettersetter.csproj", "{6F9099E3-FA12-40F3-881F-748B18DC507C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lepesfelbutton", "Lepesfelbutton\Lepesfelbutton.csproj", "{E43B4AD6-6745-457A-A240-C962B6BA90ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lepesfelbutton", "Lepesfelbutton\Lepesfelbutton.csproj", "{E43B4AD6-6745-457A-A240-C962B6BA90ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Textalign", "Textalign\Textalign.csproj", "{BAFF7B32-B0E2-4C31-AB50-893D0A296BC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Textalign", "Textalign\Textalign.csproj", "{BAFF7B32-B0E2-4C31-AB50-893D0A296BC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.4.FormMozg", "..\..\..\Downloads\19.04.FormMozg\19.4.FormMozg.csproj", "{DFA23F8C-D32C-4849-9C2C-A2D3AC46A6AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{8EFA37B1-B989-4F37-93C5-A53A28F4180D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{BAFF7B32-B0E2-4C31-AB50-893D0A296BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAFF7B32-B0E2-4C31-AB50-893D0A296BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAFF7B32-B0E2-4C31-AB50-893D0A296BC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFA23F8C-D32C-4849-9C2C-A2D3AC46A6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA23F8C-D32C-4849-9C2C-A2D3AC46A6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA23F8C-D32C-4849-9C2C-A2D3AC46A6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA23F8C-D32C-4849-9C2C-A2D3AC46A6AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EFA37B1-B989-4F37-93C5-A53A28F4180D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EFA37B1-B989-4F37-93C5-A53A28F4180D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EFA37B1-B989-4F37-93C5-A53A28F4180D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EFA37B1-B989-4F37-93C5-A53A28F4180D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
