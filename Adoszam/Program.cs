@@ -71,7 +71,7 @@ namespace Adoszam
 
             int szorz = sz1 + sz2 + sz3 + sz4 + sz5 + sz6 + sz7 + sz8 + sz9;
             int osszeg = szorz % 11;
-            
+            Console.WriteLine($"Osszeg: {osszeg}");
             if (osszeg == szam9)
             {
                 Console.WriteLine("Jó az adószámod");
@@ -81,6 +81,7 @@ namespace Adoszam
                 Console.WriteLine("Nem jó az adószámod");
             }
             Console.ReadKey();
+            
 
         
 
