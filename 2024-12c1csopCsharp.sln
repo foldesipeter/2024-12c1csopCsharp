@@ -15,7 +15,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.4.FormMozg", "..\..\..\D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{8EFA37B1-B989-4F37-93C5-A53A28F4180D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{5F0B1E9B-C4F5-4176-AB79-23F475FC766E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{5F0B1E9B-C4F5-4176-AB79-23F475FC766E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Halmazok", "Halmazok\Halmazok.csproj", "{178F986F-9B42-42D8-8F3E-BCC2ADD14309}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{5F0B1E9B-C4F5-4176-AB79-23F475FC766E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F0B1E9B-C4F5-4176-AB79-23F475FC766E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F0B1E9B-C4F5-4176-AB79-23F475FC766E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{178F986F-9B42-42D8-8F3E-BCC2ADD14309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{178F986F-9B42-42D8-8F3E-BCC2ADD14309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{178F986F-9B42-42D8-8F3E-BCC2ADD14309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{178F986F-9B42-42D8-8F3E-BCC2ADD14309}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
