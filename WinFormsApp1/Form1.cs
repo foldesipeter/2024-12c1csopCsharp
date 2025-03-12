@@ -6,5 +6,15 @@ namespace WinFormsApp1
         {
             InitializeComponent();
         }
+
+        private void pictureBox7_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

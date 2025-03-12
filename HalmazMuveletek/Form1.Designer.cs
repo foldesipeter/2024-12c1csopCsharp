@@ -135,6 +135,7 @@
             Controls.Add(btnGeneral);
             Name = "Form1";
             Text = "Form1";
+            Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)numericUpDownA).EndInit();
             ((System.ComponentModel.ISupportInitialize)numericUpDownB).EndInit();
             ResumeLayout(false);
