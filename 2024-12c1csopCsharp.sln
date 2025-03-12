@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Textalign", "Textalign\Text
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.4.FormMozg", "..\..\..\Downloads\19.04.FormMozg\19.4.FormMozg.csproj", "{DFA23F8C-D32C-4849-9C2C-A2D3AC46A6AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{8EFA37B1-B989-4F37-93C5-A53A28F4180D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{8EFA37B1-B989-4F37-93C5-A53A28F4180D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{5F0B1E9B-C4F5-4176-AB79-23F475FC766E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{8EFA37B1-B989-4F37-93C5-A53A28F4180D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EFA37B1-B989-4F37-93C5-A53A28F4180D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EFA37B1-B989-4F37-93C5-A53A28F4180D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F0B1E9B-C4F5-4176-AB79-23F475FC766E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F0B1E9B-C4F5-4176-AB79-23F475FC766E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F0B1E9B-C4F5-4176-AB79-23F475FC766E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F0B1E9B-C4F5-4176-AB79-23F475FC766E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
